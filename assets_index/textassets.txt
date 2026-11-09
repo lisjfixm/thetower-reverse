@@ -1,0 +1,83 @@
+1373	thetower-assets/textassets/5Anniversary.atlas.txt
+0	thetower-assets/textassets/5Anniversary.skel.txt
+1253	thetower-assets/textassets/Amusement Park.atlas.txt
+0	thetower-assets/textassets/Amusement Park.skel.txt
+899	thetower-assets/textassets/Automaton.atlas.txt
+0	thetower-assets/textassets/Automaton.skel.txt
+29	thetower-assets/textassets/BillingMode.txt
+612	thetower-assets/textassets/Brain.atlas.txt
+0	thetower-assets/textassets/Brain.skel.txt
+401	thetower-assets/textassets/Cake.atlas.txt
+0	thetower-assets/textassets/Cake.skel.txt
+1534	thetower-assets/textassets/Camping.atlas.txt
+0	thetower-assets/textassets/Camping.skel.txt
+883	thetower-assets/textassets/ClawMachine.atlas.txt
+0	thetower-assets/textassets/ClawMachine.skel.txt
+2346	thetower-assets/textassets/Constellation.atlas.txt
+0	thetower-assets/textassets/Constellation.skel.txt
+651	thetower-assets/textassets/CoralReef.atlas.txt
+0	thetower-assets/textassets/CoralReef.skel.txt
+595	thetower-assets/textassets/CrimsonHorror.atlas.txt
+0	thetower-assets/textassets/CrimsonHorror.skel.txt
+603	thetower-assets/textassets/Crystal Cave.atlas.txt
+0	thetower-assets/textassets/Crystal Cave.skel.txt
+857	thetower-assets/textassets/Cthulhu.atlas.txt
+0	thetower-assets/textassets/Cthulhu.skel.txt
+533	thetower-assets/textassets/CthulhuTower.atlas.txt
+0	thetower-assets/textassets/CthulhuTower.skel.txt
+1183	thetower-assets/textassets/CuteStar.atlas.txt
+0	thetower-assets/textassets/CuteStar.skel.txt
+1809	thetower-assets/textassets/CyberpunkExport.atlas.txt
+0	thetower-assets/textassets/CyberpunkExport.skel.txt
+885	thetower-assets/textassets/DJ.atlas.txt
+0	thetower-assets/textassets/DJ.skel.txt
+897	thetower-assets/textassets/Fairy.atlas.txt
+645	thetower-assets/textassets/FairyForest.atlas.txt
+0	thetower-assets/textassets/FairyForest.skel.txt
+0	thetower-assets/textassets/Fairy.skel.txt
+2518	thetower-assets/textassets/Glitch2.atlas.txt
+0	thetower-assets/textassets/Glitch2.skel.txt
+201	thetower-assets/textassets/Heart.atlas.txt
+0	thetower-assets/textassets/Heart.skel.txt
+993	thetower-assets/textassets/JurassicForest.atlas.txt
+0	thetower-assets/textassets/JurassicForest.skel.txt
+269	thetower-assets/textassets/LineBreaking Following Characters.txt
+95	thetower-assets/textassets/LineBreaking Leading Characters.txt
+299	thetower-assets/textassets/Magician.atlas.txt
+0	thetower-assets/textassets/Magician.skel.txt
+657	thetower-assets/textassets/MaricRabbit.atlas.txt
+0	thetower-assets/textassets/MaricRabbit.skel.txt
+507	thetower-assets/textassets/Meteorite.atlas.txt
+0	thetower-assets/textassets/Meteorite.skel.txt
+632	thetower-assets/textassets/Neurons.atlas.txt
+0	thetower-assets/textassets/Neurons.skel.txt
+3306	thetower-assets/textassets/PerformanceTestRunInfo.txt
+23	thetower-assets/textassets/PerformanceTestRunSettings.txt
+340	thetower-assets/textassets/Pieces.atlas.txt
+0	thetower-assets/textassets/Pieces.skel.txt
+1718	thetower-assets/textassets/Pixel Alien War.atlas.txt
+0	thetower-assets/textassets/Pixel Alien War.skel.txt
+423	thetower-assets/textassets/Pond_Background.atlas.txt
+0	thetower-assets/textassets/Pond_Background.skel.txt
+354	thetower-assets/textassets/Seahorse.atlas.txt
+0	thetower-assets/textassets/Seahorse.skel.txt
+350	thetower-assets/textassets/Sigil.atlas.txt
+0	thetower-assets/textassets/Sigil.skel.txt
+273	thetower-assets/textassets/skeleton.atlas.txt
+0	thetower-assets/textassets/skeleton.skel.txt
+1249	thetower-assets/textassets/SoldierTower.atlas.txt
+0	thetower-assets/textassets/SoldierTower.skel.txt
+325	thetower-assets/textassets/SpaceTelescope.atlas.txt
+0	thetower-assets/textassets/SpaceTelescope.skel.txt
+814	thetower-assets/textassets/SteampunkExport.atlas.txt
+0	thetower-assets/textassets/SteampunkExport.skel.txt
+699	thetower-assets/textassets/Supernova.atlas.txt
+0	thetower-assets/textassets/Supernova.skel.txt
+1068	thetower-assets/textassets/TeddyBear.atlas.txt
+0	thetower-assets/textassets/TeddyBear.skel.txt
+189	thetower-assets/textassets/Throne.atlas.txt
+0	thetower-assets/textassets/Throne.skel.txt
+593	thetower-assets/textassets/Tower Skins.atlas.txt
+0	thetower-assets/textassets/Tower Skins.skel.txt
+590	thetower-assets/textassets/Valentines.atlas.txt
+0	thetower-assets/textassets/Valentines.skel.txt

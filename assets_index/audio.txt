@@ -1,0 +1,20 @@
+37785644	thetower-assets/audio/AskaMain.AskaMain.wav
+14667308	thetower-assets/audio/AskaMenu.AskaMenu.wav
+2134	thetower-assets/audio/click_01.click_01.wav
+43393580	thetower-assets/audio/Embrace Oblivion Main.Embrace Oblivion Main.wav
+7414316	thetower-assets/audio/Embrace Oblivion Menu.Embrace Oblivion Menu.wav
+419372	thetower-assets/audio/espannol.espannol.wav
+37693484	thetower-assets/audio/Forest Bathing Main.Forest Bathing Main.wav
+7206956	thetower-assets/audio/Forest Bathing Menu.Forest Bathing Menu.wav
+15321644	thetower-assets/audio/HidingInHimalayaMain.HidingInHimalayaMain.wav
+5552684	thetower-assets/audio/HidingInHimalayaMenu.HidingInHimalayaMenu.wav
+19994156	thetower-assets/audio/MorningDewMain.MorningDewMain.wav
+2714156	thetower-assets/audio/MorningDewMenu.MorningDewMenu.wav
+19353644	thetower-assets/audio/MyDyingStarMain.MyDyingStarMain.wav
+2949164	thetower-assets/audio/MyDyingStarMenu.MyDyingStarMenu.wav
+23141420	thetower-assets/audio/OceansSingMain.OceansSingMain.wav
+4677164	thetower-assets/audio/OceansSingMenu.OceansSingMenu.wav
+35629100	thetower-assets/audio/The Ethereal and I Main.The Ethereal and I Main.wav
+6446636	thetower-assets/audio/The Ethereal and I Menu.The Ethereal and I Menu.wav
+7713836	thetower-assets/audio/Wren Intro.Wren Intro.wav
+40144940	thetower-assets/audio/Wren.Wren.wav
